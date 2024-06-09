@@ -9,6 +9,6 @@ With a solid background in developing scalable ETL pipelines and optimizing data
 
 ---
 
-Feel free to connect, share, or say hi. I'm always up for a good chat about data, tech, or debating why pineapple should stay off pizza!
+Feel free to connect, share, or say hi. I'm always up for a good chat about data, AI/ML, tech, or debating why pineapple should stay off pizza!
 
 
