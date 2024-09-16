@@ -9,9 +9,8 @@ With a solid background in developing scalable ETL pipelines and optimizing data
 
 ---
 
-Feel free to connect, share, or say hi. I'm always up for a good chat about data, AI/ML, tech, or debating why pineapple should stay off pizza!
-
 ## 🌐 Socials:
+Feel free to connect, share, or say hi. I'm always up for a good chat about data, AI/ML, tech, or debating why pineapple should stay off pizza! <br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/beast.soul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-gadder) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GadderShreyas) 
 
 # 💻 Tech Stack:
